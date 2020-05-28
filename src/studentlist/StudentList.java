@@ -17,7 +17,7 @@ public class StudentList {
         Scanner input = new Scanner(System.in);
         
         // create an array that can hold 2 students
-        Student[] students = new Student[5];
+        Student[] students = new Student[2];
         
         for (int i = 0; i < students.length; i++) {
             
